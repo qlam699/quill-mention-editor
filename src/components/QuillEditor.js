@@ -23,7 +23,7 @@ function QuillEditor({ value, onChange }) {
         if (mentionChar === "@") {
           values = [
             { id: 1, value: "Fredrik Sundqvist" },
-            { id: 2, value: "Patrik Sjölin" }
+            { id: 2, value: "Patrik Lam" }
           ];
         } else {
           values = [
