@@ -1,0 +1,27 @@
+.App {
+  max-width: 800px;
+  margin: 0 auto;
+  padding: 20px;
+}
+
+h1 {
+  text-align: center;
+  color: #333;
+}
+
+.content-preview {
+  margin-top: 20px;
+  background-color: #f5f5f5;
+  padding: 15px;
+  border-radius: 4px;
+}
+
+.content-preview h2 {
+  margin-top: 0;
+  color: #333;
+}
+
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
